@@ -1,7 +1,9 @@
 {
   "name": "create-sapper-app",
-  "version": "0.0.1",
-  "bin": "npx degit \"sveltejs/sapper-template#rollup\"",
+  "version": "0.0.2",
+  "bin": {
+    "create-sapper-app": "npx degit \"sveltejs/sapper-template#rollup\""
+  },
   "license": "MIT",
   "author": {
     "name": "Sebastian Silbermann",
