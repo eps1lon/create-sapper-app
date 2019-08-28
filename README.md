@@ -5,8 +5,8 @@
 Installs https://github.com/sveltejs/sapper-template into the specified folder
 
 ```bash
-$ yarn create sapper-sapp my-sapper-app # uses rollup by default
-$ yarn create sapper-sapp --webpack my-sapper-app # use webpack
+$ yarn create sapper-app my-sapper-app # uses rollup by default
+$ yarn create sapper-app --webpack my-sapper-app # use webpack
 ```
 
 ## Why?
