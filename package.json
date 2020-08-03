@@ -15,7 +15,7 @@
     "directory": "packages/menu"
   },
   "dependencies": {
-    "degit": "^2.1.3",
+    "degit": "^2.8.0",
     "yargs": "^13.3.0"
   }
 }
