@@ -16,6 +16,6 @@
   },
   "dependencies": {
     "degit": "^2.8.0",
-    "yargs": "^15.4.1"
+    "yargs": "^16.0.3"
   }
 }
